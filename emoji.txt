@@ -6,3 +6,11 @@
 🏧 | ATM sign | - | :atm:, :atm_sign: | U+1F3E7 | &#127975; | &#x1f3e7;
 ♒ | Aquarius | - | :aquarius: | U+2652 | 	&#9810; | &#x2652;
 ♈ | Aries | - | :aries: | U+2648 | &#9800; | &#x2648;
+🅱️ | B button (blood type) | - | :b_button_blood_type_:, :b: | U+1F171 U+FE0F | &#127345; | &#x1f171;
+🔙 | BACK arrow | - | :back:, :back_arrow: | U+1F519 | &#128281; | &#x1F519;
+🆑 | CL button | - | :cl:, :cl_button: | U+1F191 | &#127377; | &#x1F191;
+🆒 | COOL button | - | :cool:, :cool_button: | U+1F192 | &#127378; | &#x1F192;
+♋ | Cancer | - | :cancer: | U+264B | &#9803; | &#x264B;
+♑ | Capricorn | - | :capricorn: | U+2651 | &#9809; | &#x2651;
+🎄 | Christmas tree | - | :christmas_tree: | U+1F384 | &#127876; | &#x1F384;
+😂 | Face with Tears of Joy | XD | :joy: | U+1F602 | &#128514; | &#x1f602;
